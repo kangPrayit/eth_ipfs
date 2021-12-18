@@ -72,6 +72,7 @@ Pada saat pembuatan aplikasi ini, digunakan beberapa perangkat lunak dengan spes
    ```
 6. Jika berhasil Anda akan mendapatkan tampilan seperti berikut:
 
+<img src="screenshot.png" alt="screenshot" width="800" height="600">
 
 <!-- CONTACT -->
 ## Kontak
